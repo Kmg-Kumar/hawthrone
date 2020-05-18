@@ -1,0 +1,11 @@
+{
+    "name": "flexipim/hawthorne",
+    "description": "Hawthorne Content Providers",
+    "authors": [
+        {
+            "name": "Muthukumar Kannan",
+            "email": "muthukumark@dckap.com"
+        }
+    ],
+    "require": {}
+}
