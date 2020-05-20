@@ -7,5 +7,15 @@
             "email": "muthukumark@dckap.com"
         }
     ],
-    "require": {}
+    "require": {
+        "php": "^7.2"
+    },
+    "minimum-stability": "stable",
+    "extra": {
+        "laravel": {
+            "providers": [
+                "NunoMaduro\\PhpInsights\\Application\\Adapters\\Laravel\\InsightsServiceProvider"
+            ]
+        }
+    },
 }
