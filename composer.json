@@ -16,5 +16,12 @@
         "psr-4": {
             "flexiPIM\\Hawthorne\\": "src"
         }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "kmg-kumar\\Hawthorne\\HawthorneServiceProvider"
+            ]
+        }
     }
 }
