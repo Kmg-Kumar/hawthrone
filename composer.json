@@ -14,7 +14,7 @@
     },
     "autoload": {
         "psr-4": {
-            "flexiPIM\\Hawthorne\\": "src"
+            "kmg-kumar\\Hawthorne\\": "src"
         }
     },
     "extra": {
